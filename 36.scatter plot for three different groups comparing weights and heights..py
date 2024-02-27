@@ -1,5 +1,3 @@
-#Parthibhan R
-#192224275
 import matplotlib.pyplot as plt
 import numpy as np
 group1_heights = np.random.normal(170, 10, 30)

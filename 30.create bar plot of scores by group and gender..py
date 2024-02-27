@@ -1,5 +1,3 @@
-#Parthibhan R
-#192224275
 import matplotlib.pyplot as plt
 import numpy as np
 groups = ['Group 1', 'Group 2', 'Group 3', 'Group 4', 'Group 5']

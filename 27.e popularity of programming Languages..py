@@ -1,6 +1,3 @@
-#Parthibhan R
-#192224275
-
 import matplotlib.pyplot as plt
 
 languages = ['Java', 'Python', 'PHP', 'JavaScript', 'C#', 'C++']

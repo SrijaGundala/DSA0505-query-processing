@@ -1,6 +1,3 @@
-#Parthibhan R
-#192224275
-
 import pandas as pd
 data = {'ID': [1, 2, 3, 4],
         'Name': ['John', 'Alice', 'Bob', 'Eve']}

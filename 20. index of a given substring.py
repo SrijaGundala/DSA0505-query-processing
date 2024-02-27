@@ -1,5 +1,3 @@
-#Parthibhan R
-#192224275
 
 import pandas as pd
 data = {'Column1': ['apple', 'banana', 'orange', 'grape', 'kiwi']}

@@ -1,5 +1,3 @@
-#Parthibhan R
-#192224275
 import pandas as pd
 import numpy as np
 exam_data = {

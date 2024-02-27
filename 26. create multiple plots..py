@@ -1,6 +1,3 @@
-#Parthibhan R
-#192224275
-
 import matplotlib.pyplot as plt
 fig, axes = plt.subplots(nrows=2, ncols=2, figsize=(8, 8))
 
